@@ -4,10 +4,10 @@
 
 ## Education
 
-|Date|Schoool|
-|----|-------|
-|2018.03 ~ 2021.01|Incheon Academy of Science and Arts|
-|2021.03 ~        |Korea Advanced Institute of Science and Technology|
+| Date | Schoool |
+| ---- | ------- |
+| 2018.03 ~ 2021.01 | Incheon Academy of Science and Arts |
+| 2021.03 ~         | Korea Advanced Institute of Science and Technology |
 
 ## Paper
 
