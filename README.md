@@ -21,6 +21,10 @@ Analyzing Media Bias in News Articles Using RNN and CNN
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sboh1214)](https://github.com/anuraghazra/github-readme-stats)
 
+## Problem Solving
+
+[![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=sboh1214)](https://www.acmicpc.net/user/sboh1214)
+
 ## Contacts
 
 sboh1214@gmail.com
